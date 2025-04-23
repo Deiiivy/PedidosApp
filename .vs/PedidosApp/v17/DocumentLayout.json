@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\deivy\\source\\repos\\PedidosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BBBCDDB-7119-44C3-87DE-1936E0B3D6E3}|PedidosApp\\PedidosApp.csproj|c:\\users\\deivy\\source\\repos\\pedidosapp\\pedidosapp\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBBCDDB-7119-44C3-87DE-1936E0B3D6E3}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\imetodoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BBBCDDB-7119-44C3-87DE-1936E0B3D6E3}|PedidosApp\\PedidosApp.csproj|c:\\users\\deivy\\source\\repos\\pedidosapp\\pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BBBCDDB-7119-44C3-87DE-1936E0B3D6E3}|PedidosApp\\PedidosApp.csproj|solutionrelative:pedidosapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IMetodoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\source\\repos\\PedidosApp\\PedidosApp\\IMetodoEntrega.cs",
+              "RelativeDocumentMoniker": "PedidosApp\\IMetodoEntrega.cs",
+              "ToolTip": "C:\\Users\\deivy\\source\\repos\\PedidosApp\\PedidosApp\\IMetodoEntrega.cs",
+              "RelativeToolTip": "PedidosApp\\IMetodoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:04:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\deivy\\source\\repos\\PedidosApp\\PedidosApp\\Form1.cs",
               "RelativeDocumentMoniker": "PedidosApp\\Form1.cs",
