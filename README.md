@@ -18,10 +18,9 @@ qué?:
 El principio más importante en este caso es el de Responsabilidad Única (S), por que porque cada clase tiene una sola tarea: Pedido maneja datos del pedido,
 EntregaFactory decide la entrega, y RegistroPedidos guarda los pedidos. 
 
-### 4. Si se quiere añadir una entrega por "bicicleta" para pedidos ecológicos, ¿qué
-clases cambiarías?:
+### 4. Si se quiere añadir una entrega por "bicicleta" para pedidos ecológicos, ¿qué clases cambiarías?:
 
-agregara una clase "bicicleta" que implemente la interfaz IMetodoEntrega, y modificaría EntregaFactory para incluir la lógica que retorne esta entrega si el pedido es ecológico.
+agregaria una clase "bicicleta" que implemente la interfaz IMetodoEntrega, y modificaría EntregaFactory para incluir la lógica que retorne esta entrega si el pedido es ecológico.
 
 ### 5. ¿Cómo favorece el uso de estos patrones el mantenimiento del sistema?: 
 
