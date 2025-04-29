@@ -40,10 +40,24 @@ En una app bancaria podría usarse para manejar la sesión actual del usuario o 
 como el tipo de producto es tecnologia y tambien como es urgente, entonces la entrega es por Dron
 ![image](https://github.com/user-attachments/assets/839bf21a-e24a-4d86-ac5b-9301d04daa7f)
 
+## Filtros aplicados 
+
+![image](https://github.com/user-attachments/assets/16330cf3-6016-4e8f-8118-cc3c330403e9)
+
+En la siguiente imagen se filtran todos.
+![Captura de pantalla 2025-04-29 183511](https://github.com/user-attachments/assets/bfa7e3a2-8db6-4a52-ba3f-100f49c9153f)
+
+En la siguiente imagen se puede visualizar la funcionalidad del filtro, filtrando por "camion"
+![Captura de pantalla 2025-04-29 183535](https://github.com/user-attachments/assets/183f2ce3-7250-4e5a-8d19-4bdb5c89f1b5)
+
+
+
 ### Funcionamiento
 El usuario ingresa los datos del pedido en un formulario  (cliente, tipo de producto, urgencia, peso y distancia).  
 Al hacer clic en "Calcular", se asigna automáticamente el método de entrega según las reglas del negocio, y se muestra el tipo de entrega y el costo.  
 Cada pedido se guarda en una lista 
+tambien se puede filtrar por entrega
+
 
 
 
