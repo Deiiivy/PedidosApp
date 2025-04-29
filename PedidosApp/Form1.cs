@@ -31,6 +31,7 @@ namespace PedidosApp
 
                 Pedido pedido = new Pedido(cliente, producto, urgente, peso, distancia);
                 RegistroPedidos.Instancia.AgregarPedido(pedido);
+                Cleaner();
 
                 lblResultado.Text = $"Entrega: {pedido.MetodoEntrega.TipoEntrega()}\n" +
                                     $"Costo: ${pedido.ObtenerCosto():0.00}";
@@ -39,6 +40,22 @@ namespace PedidosApp
             {
                 MessageBox.Show("Error: " + ex.Message);
             }
+        }
+
+        private void Cleaner()
+        {
+            txtCliente.Clear();
+            cmbProducto.SelectedIndex = 0;
+            chkUrgente.Checked = false;
+            nudPeso.Value = 0;
+            nudDistancia.Value = 0;
+            lblResultado.Text = string.Empty;
+        }
+
+        private void btnHistorial_Click(object sender, EventArgs e)
+        {
+            var historial = new HistorialForm();
+            historial.ShowDialog();
         }
     }
 }

@@ -8,3 +8,4 @@ C:\Users\deivy\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.Ge
 C:\Users\deivy\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.csproj.CoreCompileInputs.cache
 C:\Users\deivy\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.exe
 C:\Users\deivy\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.pdb
+C:\Users\deivy\source\repos\PedidosApp\PedidosApp\obj\Debug\PedidosApp.HistorialForm.resources
